@@ -30,9 +30,9 @@ JAMENDO_CLIENT_ID = os.getenv('JAMENDO_CLIENT_ID', '7f8fee15')
 SECRET_KEY = 'django-insecure-iq-rc$a(3#3gq&)qj-%op-gt*exd#vwv3_(#y7k05w$35sdw@o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.onrender.com']
 
 
 # Application definition
