@@ -25,4 +25,4 @@ Além disso, conta com:
 - Requests (para consumir a API)
 - Bootstrap (no frontend)
 
-
+Disclaimer: ## Código utilizado foi criado pelo youtuber: @CodeWithTomi com mudanças para o uso da JamendoAPI
