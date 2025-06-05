@@ -33,4 +33,4 @@ Os principais arquivos a ser analisado são o manage.py, music/views.py, music/s
 Arquivos adicionais como o 'staticfiles' para o css e o 'templates' para o HTML estão utilizando urls externas como o bootstrap no css
 
 
-## PARA FAZER O SEU DEPLOY NÃO ESQUEÇA DE USAR O COMANDO PARA INSTALAR AS DEPENDÊNCIAS DO 'REQUIREMENTS.TXT'
+## PARA FAZER O SEU PRÓPRIO DEPLOY NÃO ESQUEÇA DE USAR O COMANDO PARA INSTALAR AS DEPENDÊNCIAS DO 'REQUIREMENTS.TXT'
