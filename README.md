@@ -26,3 +26,11 @@ Além disso, conta com:
 - Bootstrap (no frontend)
 
 Disclaimer: ## Código utilizado foi criado pelo youtuber: @CodeWithTomi com mudanças para o uso da JamendoAPI
+
+
+Os principais arquivos a ser analisado são o manage.py, music/views.py, music/services.py, music/urls.py e em spotify_backend/settings.py
+
+Arquivos adicionais como o 'staticfiles' para o css e o 'templates' para o HTML estão utilizando urls externas como o bootstrap no css
+
+
+## PARA FAZER O SEU DEPLOY NÃO ESQUEÇA DE USAR O COMANDO PARA INSTALAR AS DEPENDÊNCIAS DO 'REQUIREMENTS.TXT'
